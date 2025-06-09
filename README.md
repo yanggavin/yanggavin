@@ -22,6 +22,11 @@ I have a deep understanding of banking applications, including their architectur
 
 *To be added.*
 
+
+## Find Me Online
+
+- [Medium](https://medium.com/@yanggavin)
+
 ## Hobbies
 
 - Marathon and trail running enthusiast
