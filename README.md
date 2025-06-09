@@ -1,16 +1,27 @@
-## Hi there 👋
+## Development Manager Profile
 
-<!--
-**yanggavin/yanggavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tagline
+> Musicians don't retire.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Development Manager with expertise in **Java**, **Java EE**, **Spring Boot**, and cloud-native development on **AWS** and **OpenShift**. Experienced in building scalable enterprise solutions and leading cross-functional teams. Passionate about **Angular** and **Oracle** technologies. **AWS Certified Developer Associate**.
+
+## Skills & Technologies
+
+- Java, Java EE
+- Spring Boot
+- AWS (Certified Developer Associate)
+- OpenShift
+- Angular
+- Oracle
+
+## Favorite Projects & Repositories
+
+*To be added.*
+
+## Hobbies
+
+- Marathon and trail running enthusiast
+
+---
