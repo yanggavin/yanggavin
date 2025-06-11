@@ -1,4 +1,4 @@
-# Development Manager Profile
+# App Dev Manager
 
 ## Tagline
 > Musicians don't retire.
