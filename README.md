@@ -1,7 +1,8 @@
 # App Dev Manager
 
-## Tagline
+
 > Musicians don't retire.
+
 
 ## About Me
 
