@@ -1,14 +1,12 @@
 # App Dev Manager
 
-
 > Musicians don't retire.
-
 
 ## About Me
 
-Development Manager with expertise in **Java**, **Java EE**, **Spring Boot**, and cloud-native development on **AWS** and **OpenShift**. Experienced in building scalable enterprise solutions and leading cross-functional teams. Passionate about **Cloud** and **Mobile** technologies. [**AWS Certified Developer – Associate**](https://www.credly.com/badges/a26c6b22-62c7-4c1c-bf11-042884adebdb).
+Development Manager with expertise in **Java**, **Java EE**, **Spring Boot**, and cloud-native development on **AWS** and **OpenShift**. Experienced in building scalable enterprise solutions and leading cross-functional teams. Passionate about **cloud** and **mobile** technologies. [**AWS Certified Developer – Associate**](https://www.credly.com/badges/a26c6b22-62c7-4c1c-bf11-042884adebdb).
 
-I have a deep understanding of banking applications, including their architecture, security requirements, and integration with core banking systems. Skilled at delivering robust solutions that meet compliance standards and business needs in the financial sector.
+I have a deep understanding of banking applications, including their architecture, security requirements, and integration with core banking systems. Skilled in delivering robust solutions that meet compliance standards and business needs in the financial sector.
 
 ## Skills & Technologies
 
@@ -21,8 +19,7 @@ I have a deep understanding of banking applications, including their architectur
 
 ## Favorite Projects & Repositories
 
-*To be added.*
-
+*Various projects at a top U.S. bank*
 
 ## Find Me Online
 
